@@ -1,6 +1,6 @@
 package string;
 
-class ZigZagString{
+class ZigZagStringPayPal {
 
     public static void main(String[] args){
         //System.out.print(printZigZagString("ABCDEFGH",2));
