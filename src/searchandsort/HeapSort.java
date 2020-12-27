@@ -2,6 +2,9 @@ package searchandsort;
 
 import java.util.Arrays;
 
+
+////////time complexity o{nlogn)///////
+
 public class HeapSort {
 
     public static void main(String[] args){

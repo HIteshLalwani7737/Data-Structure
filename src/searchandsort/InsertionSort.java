@@ -7,6 +7,7 @@ import java.util.Arrays;
 //Step2: convert to sorted and unsorted array
 //Step3: compare each card to all respective cards in left side.
 //Step4: if greter than this card than keep moving till find start
+////////time complexity o{nlogn)///////
 
 
 public class InsertionSort {
